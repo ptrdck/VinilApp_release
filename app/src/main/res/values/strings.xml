@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VinilaApp_v3</string>
+    <string name = "google_client_id" translatable="false" formatted="false">39178525801-bn7dhn437qqskukkgknoeks1jvp54eqq.apps.googleusercontent.com</string>
+    <string name = "g_maps_id" translatable="false" formatted="false">AIzaSyCwnEoMV89b65vYwGc3frgOHMhORomELJo</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39178525801",
+    "firebase_url": "https://vinilapp-c328e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "vinilapp-c328e",
+    "storage_bucket": "vinilapp-c328e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39178525801:android:4ea4e1c0641597392716f8",
+        "android_client_info": {
+          "package_name": "es.dam.pi.vinilaapp_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39178525801-vb9dhu726i0rbkp29qekdumu9p762vh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.dam.pi.vinilaapp_v3",
+            "certificate_hash": "c2a8c6ba035d1639056e07966743299c45b8a1b3"
+          }
+        },
+        {
+          "client_id": "39178525801-bn7dhn437qqskukkgknoeks1jvp54eqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2AsJuk1GHXRWpWml1Q5UVNa-_iP8wWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39178525801-bn7dhn437qqskukkgknoeks1jvp54eqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

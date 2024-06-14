@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_vinilapp_background"/>
+    <foreground android:drawable="@mipmap/ic_vinilapp_foreground"/>
+</adaptive-icon>
